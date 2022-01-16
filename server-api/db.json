@@ -1,0 +1,14 @@
+{
+    "contacts":[
+        {
+            "id": "01",
+            "name": "Imdadul Haque",
+            "email": "imdadul15-1440@diu.edu.bd"
+        },
+        {
+            "id": "02",
+            "name": "Imdadul Haque",
+            "email": "imdadulhaque1440@gmail.com"
+        }
+    ]
+}
